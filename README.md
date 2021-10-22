@@ -1,5 +1,5 @@
 # refreshToken
-This project was develop with the propose for apply refresh token on nodeJS 
+This project was developed with the proposal to apply update token in nodeJS using express to generate routes, postgresql for database and prism as ORM
 
 # REQUIRED
     POSTGRESQL
